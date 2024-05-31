@@ -1,18 +1,16 @@
 ## Hi, I’m M09ic
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        <ul>
-            <li><a href="https://github.com/chainreactors">chainreactors</a> maintainer</li>
-            <li>read team</li>
-            <li>weapon developer</li>
-        </ul>
-    </div>
-    <div style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api/?username=M09Ic&show_icons=true&hide=stars&hide_rank=true" alt="stat">
-    </div>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/?username=M09Ic&show_icons=true&hide=stars&hide_rank=true" alt="stat" align="right" width="400" height="auto" />
+
+- startup
+- [chainreactors](https://github.com/chainreactors) maintainer
+- read team
+- weapon developer
 
 
+<br>
+<br>
+<br>
+<br>
 
 ## top project
 

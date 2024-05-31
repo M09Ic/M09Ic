@@ -1,2 +1,3 @@
 - [chainreactors](https://github.com/chainreactors) maintainer
-- read team and weapon developer
+- read team
+- weapon developer

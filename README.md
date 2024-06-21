@@ -3,7 +3,7 @@
 
 - startup
 - [chainreactors](https://github.com/chainreactors) maintainer
-- read team
+- red team
 - weapon developer
 
 

@@ -64,6 +64,16 @@ Blog: https://chainreactors.github.io/wiki/blog/
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=chainreactors&repo=proxyclient" alt="proxyclient" />
       </a>
     </td>
+    <td>
+      <a href="https://github.com/chainreactors/words">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chainreactors&repo=words" alt="words" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/chainreactors/crtm">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chainreactors&repo=crtm" alt="crtm" />
+    </a>
+    </td> 
   </tr>
 </table>
 
@@ -81,5 +91,23 @@ Blog: https://chainreactors.github.io/wiki/blog/
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=chainreactors&repo=malice-network" alt="malice-network" />
       </a>
     </td>
+        <td>
+      <a href="https://github.com/chainreactors/mal-community">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chainreactors&repo=mal-community" alt="mal-community" />
+      </a>
+    </td>
   </tr>
 </table>
+
+### Other
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/chainreactors/picker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=chainreactors&repo=picker" alt="picker" />
+      </a>
+    </td>
+  </tr>
+</table>
+
